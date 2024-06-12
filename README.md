@@ -4,6 +4,6 @@ Principais Comandos
 
 **git --version** -  Verifica a versão instalada.
 
-`git --version`
-`git version 2.34.1`
+1. `git --version`
+2. `git version 2.34.1`
 
